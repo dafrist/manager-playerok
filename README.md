@@ -16,3 +16,8 @@
 👉 [**Открыть "Заказы" в Telegram**](https://t.me/PlayerOKManager_bot?start=github_orders) — пробный период доступен.  
 
 <sub>📖 Подробнее про функцию «Заказы»: [читать инструкцию](https://telegra.ph/Zakazy-08-10-2)</sub>
+
+---
+
+## Ключевые слова
+PlayerOK, PlayerOK-бот, PlayerOK-менеджер, PlayerOK-хелпер, PlayerOK-ассистент, PlayerOK-заказы, PlayerOK-автовыдача, PlayerOK-автовыдача-звезд, PlayerOK-автовыдача-товаров, PlayerOK-премиум, PlayerOK-автоподнятие, PlayerOK-auto-reply, PlayerOK-support, PlayerOK-manager-bot, PlayerOK-helper-bot, PlayerOK-seller-manager, PlayerOK-order-bot, PlayerOK-premium-helper, PlayerOK-automation, PlayerOK-autodelivery, PlayerOK-autoresponder, PlayerOK-bot-для-продавцов, PlayerOK-shop-bot, PlayerOK-бот-автоответов, PlayerOK-trade-manager, PlayerOK-seller-helper, PlayerOK-support-bot, PlayerOK-ecommerce-bot

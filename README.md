@@ -1,4 +1,4 @@
-## PlayerOK Manager BOT — Telegram-бот для продавцов на PlayerOK
+# PlayerOK Manager BOT — Telegram-бот для продавцов на PlayerOK
 
 В **PlayerOK Manager BOT** можно управлять всеми активными заказами PlayerOK прямо из Telegram — без входа на сайт:
 
